@@ -24,7 +24,7 @@ Education and Attrition
 Employee Satisfaction and Engagement
  The dashboard includes average satisfaction levels, with the gauge displaying an overall score of 2.73. The satisfaction across different job roles and departments provides a granular view, showing that Sales and Research & Development have slightly higher satisfaction rates than Human Resources. Addressing satisfaction within lower-scoring departments could be essential to reduce turnover.
  
-6. Other Key Metrics
+Other Key Metrics
  Marital Status and Age Distribution: These demographic breakdowns may provide additional layers for understanding attrition, especially when combined with tenure, satisfaction, and department data. For example, younger employees or single employees might have higher turnover, which could inform targeted engagement strategies.
 
 This dashboard offers a comprehensive overview of HR metrics, focusing on attrition and its relation to various demographic and departmental factors. Key areas for improvement include onboarding support, specific job role engagement (like Laboratory Technicians), and strategies to enhance employee satisfaction. This information could support HR in developing targeted interventions aimed at reducing attrition and improving retention.
